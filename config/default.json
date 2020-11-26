@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://chanchrikAdmin:chanchrikAdmin@devbook.i8tf8.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "softmonkSecretToken",
+    "githubClientId": "09b987320f0687f7a9b3",
+    "githubSecrete": "7ade9e610f7202833b5f7645c736f868dc51d9c8"
+}
